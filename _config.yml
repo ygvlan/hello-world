@@ -1,13 +1,13 @@
 # Site settings
 title: YRH Blog
-SEOTitle: 若珩的博客 | YRH Blog
+SEOTitle: Vlan的博客 | YGVlan Blog
 header-img: img/404-bg.jpg
-email: niceyrh@gmail.com
-description: "等风来 不如追风去"
-keyword: "YRH, YRH Blog, 若珩的博客, yingruoheng, 应若珩, iOS, Apple, iPhone"
-url: "http://yingruoheng.github.io"          # your host, for absolute URL
+email: yinvlan@163.com
+description: "有志者 事竟成"
+keyword: "ygvlan, Vlan Blog, Vlan的博客, yinvlan,  PM , design, web前端"
+url: "http://ygvlan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/yingruoheng/yingruoheng.github.io.git" # you code repository
+github_repo: "https://github.com/ygvaln/ygvlan.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,9 +18,9 @@ sidebar-avatar: https://ws2.sinaimg.cn/large/006tNbRwly1fymh1e4xz0j309y09xq3j.jp
 
 # SNS settings
 RSS: false
-weibo_username:     5461658575
-zhihu_username:     ying-ruo-heng
-github_username:    yingruoheng
+weibo_username:     -------
+zhihu_username:     ygvlan
+github_username:    ygvlan
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -81,7 +81,7 @@ gitalk:
 
 # Google Analytics
 #ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: yingruoheng.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
