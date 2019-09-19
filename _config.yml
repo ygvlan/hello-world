@@ -4,7 +4,7 @@ SEOTitle: Vlan Blog
 header-img: img/404-bg.jpg
 email: yinvlan@163.com
 description: "有志者 事竟成"
-keyword: "ygvlan, Vlan Blog, Vlan的博客, yinvlan,  PM , design, web前端"
+keyword: "ygvlan, Vlan Blog, Vlan博客, yinvlan,  PM , design, web前端"
 url: "http://ygvlan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ygvaln/ygvlan.github.io.git" # you code repository
